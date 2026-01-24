@@ -1,0 +1,42 @@
+[
+    {
+        "name": "kk",
+        "age": 25,
+        "phno": "8385841737",
+        "email": "kkdhoravat@gmail.com",
+        "pin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "account_number": "595950588894",
+        "ifsc": "QWER",
+        "balance": 75000,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 45000,
+                "balance_after": 85000,
+                "time": "2025-12-29 18:50:39"
+            },
+            {
+                "type": "Deposit",
+                "amount": 15000,
+                "balance_after": 100000,
+                "time": "2025-12-29 18:51:34"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 25000,
+                "balance_after": 75000,
+                "time": "2025-12-29 18:56:00"
+            }
+        ]
+    },
+    {
+        "name": "karan",
+        "age": 26,
+        "phno": "9587646266",
+        "email": "kk@gmail.com",
+        "pin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "account_number": "306667623482",
+        "ifsc": "QWER",
+        "balance": 0
+    }
+]
